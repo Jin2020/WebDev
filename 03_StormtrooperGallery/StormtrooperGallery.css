@@ -1,0 +1,22 @@
+body {
+    padding-top: 9rem;
+}
+h1 {
+    font-family: 'Roboto Slab', serif;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: pink;
+}
+
+.navbar-inverse .navbar-brand:hover {
+    color: pink;
+}

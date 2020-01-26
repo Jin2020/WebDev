@@ -1,0 +1,16 @@
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+p {
+    width: 30%;
+    font-family: Abril Fatface;
+    margin: 1.66%;
+    font-weight: 700;
+    font-size: 30px;
+    text-transform: uppercase;
+    border-bottom: 5px solid red;
+    padding-bottom: 20px;
+}
