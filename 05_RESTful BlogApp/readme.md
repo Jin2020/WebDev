@@ -12,13 +12,11 @@
 ## Environment
  - goormIDE
  - node.js
+ - MongoDB
 
 ## CSS Library
  - Semantic UI
-
-## DB
- - MongoDB
-
+ 
 ## node_modules
  - body-parse
  - ejs
