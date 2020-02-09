@@ -19,7 +19,7 @@
 ## DB
  - MongoDB
 
-## Modules
+## node_modules
  - body-parse
  - ejs
  - express
