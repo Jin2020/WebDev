@@ -14,7 +14,7 @@
  - node.js
 
 ## CSS Library
- - Sematic UI
+ - Semantic UI
 
 ## DB
  - MongoDB
