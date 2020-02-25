@@ -11,6 +11,11 @@
  - Register Route
  - Login Route
 
+## Functionality
+ - Register
+ - Fuzzy Search
+ - Admin Role
+
 ## Environment
  - goormIDE
  - node.js
@@ -30,7 +35,3 @@
  - passport-local
  - passport-local-mongoose
  
- ## functionality
- - Register
- - Fuzzy Search
- - Admin Role
